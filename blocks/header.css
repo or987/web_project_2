@@ -53,6 +53,10 @@
   margin: 0 0 40px 80px;
 }
 
+.header__paragraph-hours-line {
+  display: block;
+}
+
 .header__paragraph-address {
   margin: 0 80px 40px 0;
 }

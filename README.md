@@ -13,4 +13,5 @@ This is the second project of the Web Development program at Practicum by Yandex
 
 ## Plan on improving the project
 
-Add your ideas here :)
+-Adding an audio playing in the background with relaxed music to make the waiting time enjoyable.
+-Adding a desert recipe video to the recipes section.

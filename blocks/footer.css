@@ -1,0 +1,44 @@
+.footer {
+  background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+  color: #fff;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 100px 108px 80px;
+}
+
+.footer__logo {
+  width: 153px;
+  height: 32px;
+}
+
+.footer__social-heading {
+  margin: 0;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+.footer__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.footer__social-link {
+  transition: background-color 1s linear;
+}
+
+.footer__social-link:hover {
+  background-color: #c1c1c1;
+}
+
+.footer__copyright {
+  margin: 0;
+  padding-left: 80px;
+  padding-bottom: 60px;
+}

@@ -10,15 +10,20 @@
 }
 
 .card__list {
+  margin: 0;
   list-style: none;
   padding-left: 0;
-  font-family: "Noto Serif", "Times New Roman" serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
 }
 
 .card__list-item {
   padding-bottom: 16px;
   display: flex;
   justify-content: space-between;
+}
+
+.card__list-item:nth-last-of-type(1) {
+  padding: 0;
 }
 
 .card__list-divider {

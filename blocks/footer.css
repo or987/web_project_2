@@ -30,11 +30,13 @@
 }
 
 .footer__social-link {
-  transition: background-color 1s linear;
+  color: #fff;
+  text-decoration: none;
+  transition: color 1s linear;
 }
 
 .footer__social-link:hover {
-  background-color: #c1c1c1;
+  color: #c1c1c1;
 }
 
 .footer__copyright {

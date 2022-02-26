@@ -47,11 +47,6 @@
   z-index: 1;
 }
 
-.header__paragraph {
-  font-weight: 500;
-  position: relative;
-}
-
 .header__paragraph_type_hours {
   list-style: none;
   position: absolute;
@@ -59,10 +54,12 @@
   bottom: 40px;
   margin: 0;
   padding: 0;
+  font-weight: 500;
 }
 
 .header__paragraph_type_address {
   position: absolute;
   right: 80px;
   bottom: 40px;
+  font-weight: 500;
 }
